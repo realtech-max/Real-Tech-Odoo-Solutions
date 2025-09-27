@@ -1,9 +1,11 @@
 {
     'name': 'Related Products & Recently Viewed',
-    'version': '1.0',
+    'version': '2.3',
     'category': 'Website',
+    'author': 'Real Tech',
+    'license': 'LGPL-3',
     'summary': 'Carousel of recently clicked products on website',
-    'price': 40.0,
+    'price': 39.99,
     'currency': 'USD',
     'depends': ['website'],
     'data': [
@@ -11,6 +13,9 @@
     ],
     'images': [
         'static/description/main_screenshot.gif',
+        'images/main_1.png',
+        'images/main_2.png',
+        'images/main_3.png'
     ],
     'assets': {
         'web.assets_frontend': [
