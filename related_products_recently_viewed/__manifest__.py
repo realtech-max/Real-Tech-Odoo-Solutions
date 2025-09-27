@@ -3,16 +3,14 @@
     'version': '1.0',
     'category': 'Website',
     'summary': 'Carousel of recently clicked products on website',
+    'price': 40.0,
+    'currency': 'USD',
     'depends': ['website'],
     'data': [
         'views/recent_products_carousel.xml',
     ],
     'images': [
-        'images/main_screenshot.png',
-        'images/main_1.png',
-        'images/main_2.png',
-        'images/main_3.png',
-        'images/main_4.png',
+        'static/description/main_screenshot.gif',
     ],
     'assets': {
         'web.assets_frontend': [
