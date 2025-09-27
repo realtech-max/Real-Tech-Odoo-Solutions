@@ -4,8 +4,8 @@
     'category': 'Website',
     'author': 'Real Tech',
     'license': 'LGPL-3',
-    'summary': 'Carousel of recently clicked products on website',
-    'price': 20,
+    'summary': 'Display related products and recently viewed items on product details page',
+    'price': 19.99,
     'currency': 'USD',
     'depends': ['website'],
     'data': [
