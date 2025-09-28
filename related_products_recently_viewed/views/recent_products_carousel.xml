@@ -34,8 +34,7 @@
                 <a t-att-href="acc.website_url" class="text-decoration-none">
                   <h6 class="mb-2" style="font-size: 1rem; font-weight: 500;"><t t-esc="acc.product_tmpl_id.name"/></h6>
                 </a>
-                
-                <!-- Variant Values Display -->
+               
                 <div class="variant-values mb-3" t-if="acc.product_template_variant_value_ids">
                   <t t-foreach="acc.product_template_variant_value_ids" t-as="variant_value">
                     <span class="badge rounded-pill bg-light text-dark me-1 mb-1" 

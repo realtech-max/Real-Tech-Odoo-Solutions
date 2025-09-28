@@ -1,11 +1,11 @@
-{
-    'name': 'Related Products & Recently Viewed',
-    'version': '2.3',
+{ 
+    'name': 'Website Related Products & Recently Viewed Products',
+    'version': '2.4',
     'category': 'Website',
     'author': 'Real Tech',
     'license': 'LGPL-3',
     'summary': 'Display related products and recently viewed items on product details page',
-    'price': 1,
+    'price': 25.00,
     'currency': 'USD',
     'depends': ['website'],
     'data': [
