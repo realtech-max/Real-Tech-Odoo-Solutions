@@ -5,8 +5,6 @@
     'author': 'Real Tech',
     'license': 'LGPL-3',
     'summary': 'Display related products and recently viewed items on product details page',
-    'price': 15.00,
-    'currency': 'USD',
     'depends': ['website'],
     'data': [
         'views/recent_products_carousel.xml',
