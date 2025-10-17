@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+
+    <template id="remove_website_brand_promotion_block" inherit_id="website.layout" name="Remove Website Brand Promotion Block" priority="99">
+        <xpath expr="//t[@t-call='web.brand_promotion']/.." position="replace">
+            <div/>
+        </xpath>
+    </template>
+
+    <template id="remove_portal_sidebar_branding" inherit_id="portal.portal_record_sidebar" name="Remove Portal Sidebar Branding" priority="99">
+        <xpath expr="//div[hasclass('text-muted')][contains(., 'Powered by')]" position="replace">
+            <div/>
+        </xpath>
+    </template>
+
+</odoo>
