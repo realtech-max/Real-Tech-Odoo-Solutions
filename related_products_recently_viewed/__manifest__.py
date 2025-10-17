@@ -3,7 +3,7 @@
     'version': '2.4',
     'category': 'Website',
     'author': 'Real Tech',
-    'price': 0.01,
+    'price': 4.5,
     'currency': 'USD',
     'license': 'LGPL-3',
     'summary': 'Display related products and recently viewed items on product details page',
