@@ -4,8 +4,6 @@
     'version': '2.4',
     'category': 'Website',
     'author': 'Real Tech',
-    'price': 3.5,
-    'currency': 'USD',
     'license': 'LGPL-3',
     'summary': "Remove Powered by Odoo from Website Footer, Portal",
     'depends': ['website'],
