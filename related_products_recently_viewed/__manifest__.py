@@ -4,6 +4,8 @@
     'category': 'Website',
     'author': 'Real Tech',
     'license': 'LGPL-3',
+    'price': 40.0,
+    'currency': 'USD',
     'summary': 'Display related products and recently viewed items on product details page',
     'depends': ['website'],
     'data': [
