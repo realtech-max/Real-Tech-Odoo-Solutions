@@ -6,6 +6,8 @@
     'author': 'Real Tech',
     'license': 'LGPL-3',
     'summary': "Remove Powered by Odoo from Website Footer, Portal",
+    'price': 22.0,
+    'currency': 'USD',
     'depends': ['website'],
     'category': 'Website',
     'data': [
